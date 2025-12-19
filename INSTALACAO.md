@@ -17,6 +17,7 @@ Instalar:
 https://www.python.org/downloads/
 https://nodejs.org/pt/download
 npm install pm2 -g
+npm i -g pm2-windows-startup
 
 ## 1) Clonar/copiar o projeto
 
